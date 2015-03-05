@@ -1,0 +1,3 @@
+*.so
+# Except this file
+!.gitignore
